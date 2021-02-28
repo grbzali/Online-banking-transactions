@@ -2,11 +2,8 @@
 
 ![money transfer](money_transfer.jpg)
 
-Bu bitirme projesi kapsamında bootcamp katılımcılarının bir online bankacılık sisteminin backend servislerini yazmaları 
+Bu proje kapsamında bootcamp katılımcılarının bir online bankacılık sisteminin backend servislerini yazmaları 
 beklenmektedir. Proje kapsamında beklenen minimum fonksiyonlar ve teknik ihtiyaçlar aşağıda listelenmiştir.
-
-Bitirme projesi bireysel olarak implemente edilecek birbiriyle aynı olan projeler başarısız sayılacaktır. Bunun yanında
-yardımlaşma, fikir alışverişi herzamanki gibi desteklenmektedir :) 
 
 ## Beklenen fonksiyonlar
 * Müşteri yönetimi
